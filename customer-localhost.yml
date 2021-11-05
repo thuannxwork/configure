@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: "jdbc:mysql://localhost:3306/category?createDatabaseIfNotExist=true&autoReconnect=true&testOnBorrow=true&useSSL=false&interactiveClient=true&noAccessToProcedureBodies=true&useUnicode=yes&characterEncoding=UTF-8&characterSetResults=UTF-8&serverTimezone=UTC&allowPublicKeyRetrieval=true"
+    url: "jdbc:mysql://localhost:3306/nab_ass_new?createDatabaseIfNotExist=true?autoReconnect=true&useSSL=false"
     username: root
     password: root
   #Redis configurations
